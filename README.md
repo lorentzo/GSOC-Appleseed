@@ -1,2 +1,2 @@
 # GSOC-Appleseed
-GSOC with Appleseed Journal
+GSOC 2020 with Appleseed Journal
